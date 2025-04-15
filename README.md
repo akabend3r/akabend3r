@@ -1,5 +1,5 @@
 # Hi i'm Julian Ruiz a.k.a bend3r 👋
-🔐 Cybersecurity Analyst | Ethical Hacker
+🔐 Ethical Hacker | Cybersecurity Analyst  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianruizs/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akabend3r/)
